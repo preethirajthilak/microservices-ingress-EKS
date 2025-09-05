@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: techsolutions
-        image: kastrov/techsolutions-app:latest
+        image: preethi90/clickops:latest
         ports:
         - containerPort: 80
         resources:
